@@ -5,7 +5,7 @@ jobs:
    runs-on: Ubuntu-latest
    steps:
    - name: create file
-     run: mkdir happie.txt
+     run: mkdir Anitha.txt
    
    - name: show files
      run: ls -l
